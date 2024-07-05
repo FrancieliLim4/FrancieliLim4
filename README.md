@@ -10,7 +10,7 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 [![Linkedin](https://img.shields.io/badge/Francieli_lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francieli-lima-da-silva-dds/)
-<a href = "mailto:limafrancieli934@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:limafrancieli934@gmail.com"><img src="https://img.shields.io/badge/limafrancieli934@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ### Hard Skills: 
