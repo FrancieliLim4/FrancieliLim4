@@ -6,7 +6,7 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
   </p> 
 
 
-
+## :point_down: Para me encontrar:
 
 
 [![Linkedin](https://img.shields.io/badge/Francieli_lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francieli-lima-da-silva-dds/)
