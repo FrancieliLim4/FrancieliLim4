@@ -1,6 +1,6 @@
 > # :sparkles: *Seja bem-vindo(a)!* :vulcan_salute:
 
-<img src="https://github.com/FrancieliLim4/FrancieliLim4/assets/171762351/00081ca3-bcfd-40b9-8880-59117deef1ed" width="300px" align="right" >
+<img src="https://github.com/FrancieliLim4/FrancieliLim4/assets/171762351/8d868dbd-2280-4053-bb71-1876fe60fcd2" width="250px" align="right" >
   <p align="left">
 Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na área de tecnologia em 2024 e atualmente estou em processo de formação como Desenvolvedor de Software Full Stack, e sigo acumulando experiência com back-end (Node.js e Javascript), front-end (React, HTML e CSS) e Banco de dados (SQL).
   </p>
@@ -16,4 +16,4 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4&theme=prussian&rank_icon=github)](https://github.com/FrancieliLim4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4&bg_color=00000000&theme=prussian&rank_icon=github)](https://github.com/FrancieliLim4)
