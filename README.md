@@ -1,4 +1,4 @@
-# :sparkles: Seja bem-vindo(a)! :vulcan_salute:
+> # :sparkles: *Seja bem-vindo(a)!* :vulcan_salute:
 
 <img src="https://placehold.co/200x100" width="200px" align="right" >
   <p align="left">
@@ -7,18 +7,13 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francieli-lima-da-silva-dds/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](limafrancieli934@gmail.com)
 
-### Techs:
+### Hard Skills:
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ts-node](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,react,css,git,vscode&perline=10)](https://skillicons.dev)
 
-![Fran GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4&show_icons=true&theme=tokyonight)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4)](https://github.com/FrancieliLim4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliLim4&size_weight=0.5&count_weight=0.5&hide_progress=true&layout=pie)
