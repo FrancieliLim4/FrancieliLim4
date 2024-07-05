@@ -15,5 +15,4 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4)](https://github.com/FrancieliLim4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliLim4&size_weight=0.5&count_weight=0.5&hide_progress=true&layout=pie)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancieliLim4&theme=prussian&rank_icon=github)](https://github.com/FrancieliLim4)
