@@ -1,9 +1,10 @@
 > # :sparkles: *Seja bem-vindo(a)!* :vulcan_salute:
 
-<img src="https://placehold.co/200x100" width="200px" align="right" >
+<img src="https://github.com/FrancieliLim4/FrancieliLim4/assets/171762351/00081ca3-bcfd-40b9-8880-59117deef1ed" width="300px" align="right" >
   <p align="left">
 Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na área de tecnologia em 2024 e atualmente estou em processo de formação como Desenvolvedor de Software Full Stack, e sigo acumulando experiência com back-end (Node.js e Javascript), front-end (React, HTML e CSS) e Banco de dados (SQL).
   </p>
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francieli-lima-da-silva-dds/)
