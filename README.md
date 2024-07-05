@@ -24,4 +24,4 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FrancieliLim4&theme=gruvbox&title=Commits,Followers,Repositories)](https://github.com/FrancieliLim4/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrancieliLim4&theme=juicyfresh)](https://github.com/FrancieliLim4/github-profile-trophy)
