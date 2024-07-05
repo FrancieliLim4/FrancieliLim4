@@ -5,8 +5,7 @@
 Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na área de tecnologia em 2024 e atualmente estou em processo de formação como Desenvolvedor de Software Full Stack, e sigo agregando experiência com back-end (Node.js e Javascript), front-end (React, HTML e CSS) e Banco de dados (SQL).
   </p> 
 
-
-## :point_down: Para me encontrar:
+### :point_down: *como me encontrar* :
 
 
 [![Linkedin](https://img.shields.io/badge/Francieli_lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francieli-lima-da-silva-dds/)
