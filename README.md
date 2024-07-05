@@ -12,7 +12,7 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 <a href = "mailto:limafrancieli934@gmail.com"><img src="https://img.shields.io/badge/limafrancieli934@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-### Hard Skills: 
+### My Skills: 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,react,css,git,vscode&perline=10)](https://skillicons.dev) 
@@ -22,3 +22,6 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 <img src="https://github.com/FrancieliLim4/FrancieliLim4/assets/171762351/c95eac84-ed6c-4f4f-98ae-3f0f08342772" width="200px" align="right" >
   <p align="left">
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrancieliLim4&theme=gruvbox&title=Commits,Followers,Repositories)](https://github.com/FrancieliLim4/github-profile-trophy)
