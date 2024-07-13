@@ -13,8 +13,6 @@ Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na
 
 
 ### My Skills: 
-
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,react,css,git,vscode&perline=10)](https://skillicons.dev) 
 
 
