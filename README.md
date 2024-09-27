@@ -1,6 +1,6 @@
 > # :sparkles: *Seja bem-vindo(a)!* :vulcan_salute:
 
-<img src="https://github.com/user-attachments/assets/2ff0c962-6f04-4798-82e4-04ce39a11abf" width="230px" align="right" >
+<img src="https://github.com/user-attachments/assets/46e79174-9f45-49dc-8b5a-2a3dfb93c538" width="230px" align="right" >
   <p align="left">
 Meu nome é Francieli lima da silva, iniciei minha trajetória como estudante na área de tecnologia em 2024 e atualmente estou em processo de formação como Desenvolvedor de Software Full Stack, e sigo agregando experiência com back-end (Node.js e Javascript), front-end (React, HTML e CSS) e Banco de dados (SQL).
   </p> 
